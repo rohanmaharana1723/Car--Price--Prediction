@@ -1,0 +1,19 @@
+Price Optimization Across Multi-Brand Car Listings
+ Context
+A car dealership platform aggregates listings from multiple manufacturers—ranging from budget hatchbacks to luxury SUVs. With hundreds of models and fluctuating prices, users often struggle to compare options, and the platform faces challenges in pricing strategy, inventory turnover, and customer satisfaction.
+🔍 Key Challenges
+- Price Volatility: Frequent price changes across brands and models make it hard to maintain consistent pricing strategies.
+- Feature Overlap: Similar features across different brands/models confuse buyers and dilute brand value.
+- Demand Mismatch: Popular models are often understocked, while less-desired variants remain unsold.
+- Data Fragmentation: Car specs, prices, and seller details are stored in inconsistent formats, making analysis difficult.
+ Business Goals
+- Normalize and compare car listings across brands based on price, features, and demand.
+- Identify pricing sweet spots for each segment (e.g., ₹5–8 lakh hatchbacks, ₹15–20 lakh SUVs).
+- Highlight underperforming models and optimize inventory decisions.
+- Provide buyers with clear, bilingual (Hindi-English) comparisons and filters.
+ Proposed Solution
+Build a modular dashboard that:
+- Parses car titles to extract brand, model, fuel type, transmission, and price.
+- Uses color-coded cards to show price bands, popularity, and feature highlights.
+- Offers filters for budget, brand, and body type with bilingual hints.
+- Flags overpriced or underperforming listings using dynamic logic.
