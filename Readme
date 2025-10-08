@@ -23,6 +23,22 @@ This project demonstrates how to:
 - **Modeling:** Multiple regression models (Decision Tree, Random Forest, Gradient Boosting) with evaluation metrics.
 - **Web Application:** Streamlit app to input car specifications and predict the price in real-time.
 
+
+---
+
+## Model Performance
+
+| Model                          | R² Score  | MAE       | RMSE      |
+|--------------------|-----------|-----------|-----------|
+| Linear_Regression              | 0.97      | 892.34    | 3482.59   |
+| Gradient and Random Forest     | 0.96      | 1003.78   | 3956.14   |
+| Gradient Boosting              | 0.95     | 1817.75    | 4210.26   |
+
+
+---
+
+
+
 ---
 
 
