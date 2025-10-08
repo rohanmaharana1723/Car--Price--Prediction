@@ -30,9 +30,9 @@ This project demonstrates how to:
 
 | Model                          | R² Score  | MAE       | RMSE      |
 |--------------------|-----------|-----------|-----------|
-| Linear_Regression              | 0.97      | 892.34    | 3482.59   |
-| Gradient and Random Forest     | 0.96      | 1003.78   | 3956.14   |
-| Gradient Boosting              | 0.95     | 1817.75    | 4210.26   |
+| Linear_Regression              | 0.80      |  2611.18  | 3907.41   |
+| Gradient and Random Forest     | 0.96      | 1003.78   | 2265.55   |
+| Ridge and Lasso                | 0.80 /81  | 1817.75   | 3831.45/3907.25|
 
 
 ---
