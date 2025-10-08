@@ -1,0 +1,29 @@
+#  Car Price Prediction
+
+An interactive machine learning project that predicts the price of automobiles
+based on their specifications using a trained regression model and a Streamlit 
+web application.
+
+---
+
+##  Project Overview
+
+This project demonstrates how to:
+- Preprocess and clean automobile data
+- Handle outliers and missing values
+- Encode categorical features
+- Train regression models to predict car prices
+- Deploy a user-friendly web application using Streamlit
+
+---
+
+## Features
+
+- **Data Preprocessing:** Cleaning, handling missing values, and encoding categorical variables.
+- **Modeling:** Multiple regression models (Decision Tree, Random Forest, Gradient Boosting) with evaluation metrics.
+- **Web Application:** Streamlit app to input car specifications and predict the price in real-time.
+
+---
+
+
+
